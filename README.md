@@ -1,4 +1,4 @@
-# book-ilb-manager
+# book-lib-manager
 
 PHPとMySQLで作った蔵書管理システムです。
 
